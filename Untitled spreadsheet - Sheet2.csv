@@ -1,0 +1,5 @@
+Substance,Water,Glucose,Starch,Protein,Lipids
+Protein,Negative,Negative,Negative,Positive,Negative
+Lipids,Negative,Negative,Negative,Negative,Positive
+Glucose,Negative,Positive,Negative,Negative,Negative
+Starch,Negative,Negative,Positive,Negative,Negative
