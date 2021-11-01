@@ -1,0 +1,67 @@
+country,Year,gdp_total_yearly_growth copy,gdpperemployee_us_inflation_adjusted,gdpperworking_hour_us_inflation_adjusted
+Barbados,1990,-4.42,33.2k,12.2
+Barbados,1991,-7.47,30.7k,12.1
+Barbados,1992,0.584,31.1k,12.1
+Barbados,1993,3.85,30.7k,11.4
+Barbados,1994,2.44,29.6k,11.1
+Barbados,1995,2.98,29.1k,10.7
+Barbados,1996,4.42,30.3k,10.9
+Barbados,1997,6.1,30.5k,11.2
+Barbados,1998,0.366,29.9k,10.9
+Barbados,1999,2.13,30.7k,10.7
+Barbados,2000,-2.75,29.9k,10.2
+United Kingdom,1990,-1.47,61.4k,21.2
+United Kingdom,1991,0.164,62.8k,22.1
+United Kingdom,1992,2.27,65.3k,23
+United Kingdom,1993,4.3,67.4k,23.7
+United Kingdom,1994,3.04,68.5k,24
+United Kingdom,1995,2.92,69.5k,24.6
+United Kingdom,1996,3.44,70.4k,25
+United Kingdom,1997,3.85,71.7k,25.4
+United Kingdom,1998,3.61,73.2k,25.9
+United Kingdom,1999,4.46,75k,26.7
+United Kingdom,2000,3.14,76.4k,27.1
+Luxembourg,1990,9.01,168k,28.8
+Luxembourg,1991,1.53,167k,28.8
+Luxembourg,1992,4.04,175k,29.5
+Luxembourg,1993,4.07,182k,30.2
+Luxembourg,1994,1.17,188k,29.6
+Luxembourg,1995,3.21,187k,29.7
+Luxembourg,1996,8.93,193k,30.6
+Luxembourg,1997,7.5,202k,31.3
+Luxembourg,1998,7.74,212k,32.4
+Luxembourg,1999,8.92,221k,33.3
+Luxembourg,2000,0.936,226k,32.3
+Latvia,1990,-12.9,20.9k,8.55
+Latvia,1991,-32.2,13.8k,6.27
+Latvia,1992,-4.83,12.1k,5.97
+Latvia,1993,2.01,12.9k,6.85
+Latvia,1994,-1.1,13.3k,7.6
+Latvia,1995,3.55,13.9k,8.05
+Latvia,1996,9.04,14.1k,8.35
+Latvia,1997,5.62,15.3k,8.73
+Latvia,1998,4.82,16k,9.23
+Latvia,1999,6.94,17.4k,10.1
+Latvia,2000,7.83,18.4k,10.7
+Mexico,1990,4.29,21.2k,8.6
+Mexico,1991,3.58,21.1k,8.71
+Mexico,1992,1.92,21.1k,8.75
+Mexico,1993,4.47,21.7k,8.82
+Mexico,1994,-6.4,20.6k,8.37
+Mexico,1995,5.36,20.9k,7.92
+Mexico,1996,7.09,21k,8.17
+Mexico,1997,5.19,21.5k,8.36
+Mexico,1998,4.07,21.7k,8.19
+Mexico,1999,6.71,22.4k,8.73
+Mexico,2000,0.147,22.1k,8.83
+United States,1990,-0.626,74.9k,26.7
+United States,1991,2.96,77.2k,27.6
+United States,1992,2.52,78.2k,27.7
+United States,1993,3.9,79.4k,27.9
+United States,1994,2.43,80.1k,27.9
+United States,1995,3.72,81.8k,28.6
+United States,1996,4.46,83.6k,29.1
+United States,1997,4.41,85.6k,29.6
+United States,1998,4.88,88.1k,30.4
+United States,1999,4.16,90.3k,31.1
+United States,2000,1.16,91.2k,31.7
